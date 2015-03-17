@@ -5,6 +5,6 @@ This is sample web application CRUD with localStorage HTML5.
 
 ## credit : 
 
-*Nyekrip - Web Tutorial Indonesia : www.nyekrip.com
-*Bootstrap : http://getbootstrap.com
+* Nyekrip - Web Tutorial Indonesia : www.nyekrip.com
+* Bootstrap : http://getbootstrap.com
 
